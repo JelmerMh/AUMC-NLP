@@ -1,0 +1,161 @@
+Kolommen die ik nu gebruik:
+"Voortgangsverslag", 
+"Consulten", 
+"SEH arts notitie", 
+"SEH-triagenotities".
+
+
+*AMC 2017*
+Voortgangsverslag                                   24559
+Brief                                               16308
+Zorgplan/VPK rapportage                             13285
+SEH arts notitie                                    10166
+Verpleegkundige notitie op SEH                       8922
+Consulten                                            6895
+SEH-triagenotities                                   3870
+VPK verloop opname                                   1822
+Notitie voor evaluatie & plan                        1233
+Operatie verslag                                      689
+Verrichtingen                                         473
+Familiegesprek                                        400
+Ontslagsamenvattingen                                 266
+Consulten (niet-arts)                                 234
+SEH verslag                                           186
+Observatielijst                                       116
+KL snapshot bezoeksamenvatting                         99
+Ontslag - Medische instructies                         33
+OBS Beleid                                             27
+Ontslaginstr. - activiteit                             26
+MDO-verslag                                            23
+Ontslaginstr. - overige orders                         21
+SEH Snapshot bezoeksamenvatting                        19
+Reanimatiedocumentatie                                 13
+Verpleegkundig verslag                                 12
+Crisisplan                                             10
+Beloop dwangtoepassingen                                9
+Ontslag - Instructies bij problemen/complicaties        7
+Ontslag - Instructies wond/drains/lijnen etc            7
+Telefonisch contact                                     6
+Dieet voor patiënt                                      6
+Intake psychiatrie                                      5
+Groepstherapie                                          5
+Addendum notitie                                        4
+Research notitie                                        3
+Informatiekluis                                         3
+Begeleidingsadviezen en afspraken                       2
+Ontslaginstr. - afspraken                               2
+MDO voorbereiding                                       2
+Dagprogramma (tijdens opname)                           2
+Co-assistent 1e jaars                                   1
+Lactatie-notitie                                        1
+
+
+*AMC 2020*
+Voortgangsverslag                                   24097
+SEH-triagenotities                                  16961
+Brief                                               13631
+Zorgplan/VPK rapportage                             11657
+SEH arts notitie                                     5866
+Consulten                                            4495
+Telefonisch contact                                  1843
+VPK verloop opname                                    997
+Anesthesie verrichtingsnotities                       782
+Verpleegkundige notitie op SEH                        715
+SEH verslag                                           698
+Anesthesie pre-op. evaluatie                          664
+Notitie voor beoordeling & plan                       600
+Operatie verslag                                      562
+Verrichtingen                                         526
+Consulten (niet-arts)                                 518
+Familiegesprek                                        347
+Postop. evaluatie anesthesie                          252
+MDO-verslag                                           192
+Addendum notitie                                      127
+Ontslagsamenvattingen                                 114
+OK notitie                                            100
+Ontslaginstr. - activiteit                             49
+Notitie voor evaluatie & plan                          43
+Research notitie                                       42
+Verpleegkundig verslag                                 42
+Observatielijst                                        37
+OBS Beleid                                             28
+Ontslag - Instructies bij problemen/complicaties       13
+Ontslag - Medische instructies                         12
+Ontslaginstr. - overige orders                         12
+Begeleidingsadviezen en afspraken                      12
+OK operatieverslag                                     10
+Zorgoverdracht                                          9
+Informatiekluis                                         9
+MDO voorbereiding                                       8
+Ontslag - Instructies wond/drains/lijnen etc            6
+Ontslaginstr. - apotheek                                5
+Ontslaginstr. - afspraken                               5
+Patiëntinstructies                                      4
+Intake psychiatrie                                      3
+Dieet voor patiënt                                      3
+Signaleringsplan psychiatrie                            3
+Anamnese & onderzoek                                    2
+Ontslaginstr. - dieet                                   2
+Reanimatiedocumentatie                                  2
+Lactatie-notitie                                        2
+Groepstherapie                                          1
+Crisisplan                                              1
+VK-bevallingsverslag                                    1
+Downtime notities                                       1
+Beloop dwangtoepassingen                                1
+Dagprogramma (tijdens opname)                           1
+
+*AMC 2022*
+Voortgangsverslag                                   33984
+SEH-triagenotities                                  26813
+Brief                                               22141
+Zorgplan/VPK rapportage                             15088
+Consulten                                            9758
+SEH arts notitie                                     9682
+Consulten (niet-arts)                                2287
+Telefonisch contact                                  1850
+Anesthesie verrichtingsnotities                      1480
+Verpleegkundige notitie op SEH                       1158
+Anesthesie pre-op. evaluatie                         1104
+Operatie verslag                                      970
+Verrichtingen                                         845
+Ontslaginstructies                                    768
+Notitie voor evaluatie & plan                         510
+VPK verloop opname                                    493
+Familiegesprek                                        436
+Anesthesie postop. evaluatie                          339
+Ontslagsamenvattingen                                 250
+OK notitie                                            219
+Addendum notitie                                      199
+MDO-verslag                                           121
+Observatielijst                                        52
+Ontslaginstr. - activiteit                             51
+OBS Beleid                                             47
+Research notitie                                       32
+Reanimatiedocumentatie                                 31
+Anamnese & onderzoek                                   28
+Ontslag - Instructies bij problemen/complicaties       26
+Zorgoverdracht                                         26
+Sedatiedocumentatie                                    24
+Ontslaginstr. - overige orders                         21
+Verpleegkundig verslag                                 19
+Begeleidingsadviezen en afspraken                      17
+OK operatieverslag                                     16
+Informatiekluis                                        12
+Intake psychiatrie                                     10
+Lactatie-notitie                                       10
+Ontslaginstr. - apotheek                                9
+In Basket bericht                                       8
+MDO voorbereiding                                       8
+Ontslag - Medische instructies                          7
+Signaleringsplan psychiatrie                            6
+Ontslaginstr. - afspraken                               5
+Ontslag - Instructies wond/drains/lijnen etc            5
+SEH verslag                                             5
+Ontslaginstr. - dieet                                   5
+Dagprogramma (tijdens opname)                           4
+Beloop verplichte zorg                                  4
+Crisisplan                                              2
+Patiëntinstructies                                      2
+Groepstherapie                                          2
+Downtime notities                                       1
